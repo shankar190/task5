@@ -1,5 +1,0 @@
-NAME                                READY   STATUS    RESTARTS   AGE
-nginx-deployment-59f86b59ff-gzvfn   1/1     Running   0          79m
-nginx-deployment-59f86b59ff-j7ssn   1/1     Running   0          79m
-nginx-deployment-59f86b59ff-pgw4p   1/1     Running   0          85m
-nginx-deployment-59f86b59ff-r6zvp   1/1     Running   0          85m
